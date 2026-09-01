@@ -28,7 +28,7 @@ The project was developed using the following tools and technologies:
 
 📈 **Tableau** – Used for visual analytics and interactive reporting.
 
-🔗 **Data Modeling** – Created a star schema connecting Project, Category, Location, Creator, and Calendar tables for efficient analysis and filtering. :contentReference[oaicite:1]{index=1}
+🔗 **Data Modeling** – Created a star schema connecting Project, Category, Location, Creator, and Calendar tables for efficient analysis and filtering. 
 
 ## 4. Data Source
 
@@ -46,7 +46,7 @@ The dataset contains detailed crowdfunding campaign information including:
 - Deadline Date
 - Staff Pick Details
 
-The project follows an end-to-end analytics workflow from data cleaning and preparation to SQL analysis and BI dashboard development. :contentReference[oaicite:2]{index=2}
+The project follows an end-to-end analytics workflow from data cleaning and preparation to SQL analysis and BI dashboard development. 
 
 ### Workflow
 
@@ -87,7 +87,7 @@ Interactive Reporting
 
 Many crowdfunding projects fail because of poor planning, unrealistic funding goals, and limited visibility.
 
-This analysis identifies the factors that influence campaign success and provides insights into funding behavior, category performance, and backer engagement. :contentReference[oaicite:3]{index=3}
+This analysis identifies the factors that influence campaign success and provides insights into funding behavior, category performance, and backer engagement. 
 
 ### Goal of the Dashboard
 
@@ -125,7 +125,7 @@ Provides an overall view of Kickstarter campaign performance.
 - Staff Pick Analysis
 - Interactive Year & Country Filters
 
-The dashboard provides interactive KPI cards, charts, slicers, and dynamic year and country selection. :contentReference[oaicite:4]{index=4}
+The dashboard provides interactive KPI cards, charts, slicers, and dynamic year and country selection. 
 
 ### 📈 Campaign Performance Analysis
 
@@ -171,7 +171,7 @@ Tracks crowdfunding activity and performance across different years.
 - **Successful Projects:** 38.35%
 - **Amount Raised:** $3,475.87M
 - **Number of Backers:** 39.92M
-- **Average Days to Success:** 80.52 :contentReference[oaicite:5]{index=5}
+- **Average Days to Success:** 80.52 
 
 ## 7. Key Business Insights
 
@@ -179,7 +179,7 @@ Tracks crowdfunding activity and performance across different years.
 - Staff Pick campaigns attract more backers.
 - Product Design is a leading category.
 - Strong campaign marketing supports better funding performance.
-- Backer engagement plays an important role in project success. :contentReference[oaicite:6]{index=6}
+- Backer engagement plays an important role in project success. 
 
 ## 8. Data Cleaning & Preparation
 
@@ -190,7 +190,7 @@ The dataset was prepared through:
 - Category standardization
 - Date format conversion
 - Calculated fields and measures
-- Data validation checks :contentReference[oaicite:7]{index=7}
+- Data validation checks 
 
 ## 9. Skills Demonstrated
 
@@ -217,4 +217,4 @@ The dataset was prepared through:
 
 This project demonstrates an end-to-end data analytics workflow using Excel, SQL, Power BI, and Tableau to analyze Kickstarter crowdfunding campaigns.
 
-The analysis provides valuable insights into campaign success factors, funding behavior, category trends, and backer engagement, supporting data-driven decision-making. :contentReference[oaicite:8]{index=8}
+The analysis provides valuable insights into campaign success factors, funding behavior, category trends, and backer engagement, supporting data-driven decision-making. 
